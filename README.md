@@ -1,6 +1,6 @@
 # Simple Notes API
 
-A simple notes API to demenstrate CRUD operations with Node.JS and Express.JS.
+A simple notes API to demonstrate CRUD operations with Node.JS and Express.JS.
 
 ## Requirements
 
