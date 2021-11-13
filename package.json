@@ -1,0 +1,25 @@
+{
+  "name": "notes-api",
+  "version": "0.0.1",
+  "description": "A Simple CRUD APIs for a notes app to demonistrate the nodejs, express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "note",
+    "notes",
+    "api",
+    "express",
+    "node",
+    "nodejs"
+  ],
+  "author": "@mostafa_yasin",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "memorystorage": "^0.12.0",
+    "sequential-ids": "0.0.0"
+  }
+}
